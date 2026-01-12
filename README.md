@@ -2,12 +2,12 @@
 
 A modern, web-based library management system built with HTML, CSS, and JavaScript.
 
-**🚀 Live Demo**   
+## **🚀 Live Demo**   
 This website is hosted on GitHub Pages at:  `https://chandrikatck.github.io/GyaanKosh-A-Kubernetes-and-Docker-based-Library-Management-System/`
 
 ---
 
-**📁 Project Structure**  
+## **📁 Project Structure**  
 - `index.html` – Main homepage  
 - `public-catalog.html` – Public book catalog  
 - `login.html` – User login page  
@@ -21,7 +21,7 @@ This website is hosted on GitHub Pages at:  `https://chandrikatck.github.io/Gyaa
 
 ---
 
-**🌐 Features**  
+## **🌐 Features**  
 - Modern, responsive design  
 - Book catalog browsing  
 - User authentication system  
@@ -31,29 +31,17 @@ This website is hosted on GitHub Pages at:  `https://chandrikatck.github.io/Gyaa
 
 ---
 
-**🛠️ Technologies Used**  
+## **🛠️ Technologies Used**  
 
-**Frontend:**  
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-
-**Styling:**  
-- Custom CSS  
-- Font Awesome icons  
-
-**Fonts:**  
-- Google Fonts (Poppins)  
-
-**Backend:**  
-- Node.js (separate deployment)  
-
-**Containerization:**  
-- Docker & Kubernetes  
+- Frontend: HTML5, CSS3, JavaScript (ES6+)  
+- Styling: Custom CSS, Font Awesome icons  
+- Fonts: Google Fonts (Poppins)  
+- Backend: Node.js (separate deployment)  
+- Containerization: Docker & Kubernetes  
 
 ---
 
-**📱 GitHub Pages Deployment**  
+## **📱 GitHub Pages Deployment**  
 
 This repository is configured for GitHub Pages. The frontend files are served directly from the root directory.
 
@@ -73,7 +61,7 @@ Your site will be available at:  `https://[your-username].github.io/[repository-
 
 ---
 
-**🤝 Contributing**  
+## **🤝 Contributing**  
 
 1. Fork the repository  
 2. Create a feature branch  
@@ -82,6 +70,6 @@ Your site will be available at:  `https://[your-username].github.io/[repository-
 
 ---
 
-**📄 License**  
+## **📄 License**  
 
 This project is licensed under the MIT License.
