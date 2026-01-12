@@ -73,7 +73,7 @@ Your site will be available at:  https://[your-username].github.io/[repository-n
 
 ---
 
-🤝 Contributing  
+**🤝 Contributing **  
 
 1. Fork the repository  
 2. Create a feature branch  
@@ -82,6 +82,6 @@ Your site will be available at:  https://[your-username].github.io/[repository-n
 
 ---
 
-📄 License  
+**📄 License **  
 
 This project is licensed under the MIT License.
