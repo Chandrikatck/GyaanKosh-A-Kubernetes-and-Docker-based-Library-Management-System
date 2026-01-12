@@ -3,8 +3,7 @@
 A modern, web-based library management system built with HTML, CSS, and JavaScript.
 
 🚀 Live Demo  
-This website is hosted on GitHub Pages at:  
-https://chandrikatck.github.io/GyaanKosh-A-Kubernetes-and-Docker-based-Library-Management-System/
+This website is hosted on GitHub Pages at:  `https://chandrikatck.github.io/GyaanKosh-A-Kubernetes-and-Docker-based-Library-Management-System/`
 
 ---
 
