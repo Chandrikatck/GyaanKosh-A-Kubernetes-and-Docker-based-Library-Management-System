@@ -68,7 +68,7 @@ To enable GitHub Pages:
    - Folder: `/ (root)`  
 5. Click **Save**
 
-Your site will be available at:  https://[your-username].github.io/[repository-name]
+Your site will be available at:  `https://[your-username].github.io/[repository-name]`
 
 
 
