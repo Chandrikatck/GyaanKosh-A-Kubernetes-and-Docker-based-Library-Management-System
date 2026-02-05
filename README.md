@@ -18,31 +18,30 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> TALLA CHANDRIKA </p>
+    <p><strong>Email ID:</strong> chandrikatalla689@gmail.com </p>
+    <p><strong>College Name:</strong> Vasireddy Venkatadri Institute of Technology </p>
+    <p><strong>Branch/Specialization :</strong> ECE </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Cloud Computing And DevOps </p>
+    <p><strong>Instructor Name:</strong> Mr. Jasdeep Singh Hanspal </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 Months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Mr. Jasdeep Singh Hanspal </p>
+<p><strong>Trainer Email ID:</strong> Jasdeep.jsh+suretrust@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Senior Manager, Microsoft Corporation </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,10 +62,7 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+> Leveraged GitHub, Docker, and Kubernetes to manage and deploy application infrastructure. Streamlined software delivery by implementing CI/CD pipelines using GitHub Actions and Git, while ensuring reliable deployment through continuous monitoring and troubleshooting of build and deployment processes.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
