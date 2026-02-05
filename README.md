@@ -68,31 +68,20 @@
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> E-Learning Platform </p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
+<p><strong><a href="#project2">Project 2:</a></strong> Library Management System </p>
 
 </div>
 
-<!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: E-Learning Platform </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  Developed a web-based Library Management System with frontend and backend components. Handled version control, CI/CD automation, and deployment using GitHub, GitHub Actions, Docker, and Kubernetes to ensure stable and efficient application delivery.
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<h3 id="project2">Project 2: Library Management System </h3>
 <p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
+  This project is a web-based Library Management System featuring frontend and backend components, managed using Git and GitHub. The application is containerized using Docker and configured with Kubernetes for basic orchestration. It is deployed using GitHub Pages and automated through GitHub Actions, demonstrating a practical DevOps workflow from development to deployment and troubleshooting.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
