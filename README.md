@@ -84,7 +84,7 @@
   This project is a web-based Library Management System featuring frontend and backend components, managed using Git and GitHub. The application is containerized using Docker and configured with Kubernetes for basic orchestration. It is deployed using GitHub Pages and automated through GitHub Actions, demonstrating a practical DevOps workflow from development to deployment and troubleshooting.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href=https://github.com/Chandrikatck/GyaanKosh-A-Kubernetes-and-Docker-based-Library-Management-System/blob/main/SURE%20Trust%20project%20document.pdf target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 3 -->
