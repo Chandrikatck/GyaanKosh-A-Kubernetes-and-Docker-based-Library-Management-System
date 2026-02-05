@@ -87,57 +87,49 @@
   <a href=https://github.com/Chandrikatck/GyaanKosh-A-Kubernetes-and-Docker-based-Library-Management-System/blob/main/SURE%20Trust%20project%20document.pdf target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
+- [Kubernetes](https://kubernetes.io/docs/home/)
+- [Docker](https://docs.docker.com/)
+- [Minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download)
+- [Chatgpt](https://chatgpt.com/)
+- [w3schools](https://www.w3schools.com/)
 ---
 
 
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+>The LST and SST sessions at the Sure Trust Foundation helped me develop strong professional ethics, effective communication, and workplace awareness. Through work culture and advocacy sessions, I gained a better understanding of integrity, gender equality, and respectful professional behavior. Yoga and mindfulness practices improved my self-discipline, focus, and stress management skills. Community engagement with elderly citizens strengthened my empathy and sense of social responsibility. Overall, these sessions supported my personal growth, career readiness, and balanced lifestyle.
 ---
 
 ## **Community Services**
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship, I actively participated in community-oriented and professional development activities through the LST and SST sessions at the Skill India Institute. These programs helped bridge the gap between technical knowledge and social responsibility. By taking part in social service initiatives and professional ethics workshops, I developed a balanced perspective as both an engineer and a responsible citizen.
 
 ### **Activities Involved**
 <!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+- **Work Culture & Ethics Workshops** – Participated in specialized sessions focused on professional conduct, workplace integrity, corporate etiquette, and ethical workplace practices.
   
  <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+- **Advocacy & Awareness** – Participated in sessions on workplace laws and policies for women, gaining a strong understanding of safety, rights, and gender equality in professional environments.
 
   <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** – Interacted with elderly citizens by assisting them with daily activities, fostering empathy, social responsibility, and stronger community relationships.
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+- Professional Integrity – Developed a strong understanding of workplace ethics and legal frameworks supporting women, ensuring a safe and respectful professional environment.
+- Career Preparedness – Enhanced communication, collaboration, and coordination skills through group activities, building confidence for modern work cultures.
+- Balanced Lifestyle – Adopted effective stress management and wellness practices to maintain productivity while contributing positively to social causes.
+- Social Awareness – Cultivated empathy and social responsibility toward vulnerable communities and environmental sustainability.
 
 ### **Photos**
 
